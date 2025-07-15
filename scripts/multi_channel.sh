@@ -1,8 +1,4 @@
 #!/bin/sh
-#SBATCH --job-name=multi_channel
-#SBATCH --out="log_multi_channel"
-#SBATCH --time=72:00:00
-#SBATCH -p qcpu
 
 set -e
 . ./path.sh
