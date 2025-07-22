@@ -32,7 +32,6 @@ To get started, we recommend organzing the source directory as follows:
 We recommend to prepare the source directory with below file architecture:
 ```
 in_data_dir/
-├── ultra_deepfake.csv
 ├── data.csv
 ├── wavs/
 │   ├── wav1.wav
