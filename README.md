@@ -1,5 +1,10 @@
 # LENS-DF-DataGen
 
+[![Sampledata](https://img.shields.io/badge/Sample%20data-Zenodo-9cf?logo=zenodo)](https://zenodo.org/records/15948624)
+[![Conference](https://img.shields.io/badge/Conference-IJCB%202025-green)](https://ijcb2025.ieee-biometrics.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://zenodo.org/records/15948624/files/LICENSE?download=1)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2507.08530-b31b1b.svg)](https://arxiv.org/abs/2507.08530) -->
+
 (This work has been accepted to [IEEE IJCB 2025](https://ijcb2025.ieee-biometrics.org). The arxiv link of the camera-ready paper will be added later)
 
 This repository provides the data generation recipe for LENS-DF, designed to create long-form, multi-speaker, and noisy audio data. 
@@ -94,7 +99,7 @@ This CSV contains all the necessary metadata for the generated waveforms and ser
 This project is licensed under the MIT license. See LICENSE for details.
 
 ## Acknowledgements
-This study is supported by the New Energy and Industrial Technology Development Organization (NEDO, JPNP22007), JST AIP Acceleration Research (JPMJCR24U3), and JST PRESTO (JPMJPR23P9). This study was carried out using the TSUBAME4.0 supercomputer at the Institute of Science Tokyo.
+This study is supported by the New Energy and Industrial Technology Development Organization (NEDO, JPNP22007), JST AIP Acceleration Research (JPMJCR24U3), and JST PRESTO (JPMJPR23P9). This study was partially carried out using the TSUBAME4.0 supercomputer at the Institute of Science Tokyo.
 
 ## Citation
 If you find this work interesting and useful for your research, please consider citing our paper:
