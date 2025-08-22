@@ -3,9 +3,9 @@
 [![Sampledata](https://img.shields.io/badge/Sample%20data-Zenodo-9cf?logo=zenodo)](https://zenodo.org/records/15948624)
 [![Conference](https://img.shields.io/badge/Conference-IJCB%202025-green)](https://ijcb2025.ieee-biometrics.org/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://zenodo.org/records/15948624/files/LICENSE?download=1)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2507.08530-b31b1b.svg)](https://arxiv.org/abs/2507.08530) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2507.16220-b31b1b.svg)](https://arxiv.org/abs/2507.16220)
 
-(This work has been accepted to [IEEE IJCB 2025](https://ijcb2025.ieee-biometrics.org). The arxiv link of the camera-ready paper will be added later)
+(This work has been accepted to [IEEE IJCB 2025](https://ijcb2025.ieee-biometrics.org).
 
 This repository provides the data generation recipe for LENS-DF, designed to create long-form, multi-speaker, and noisy audio data. 
 This repo is useful for developing robust audio deepfake detection systems and performing temporal localization.
